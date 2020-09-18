@@ -4,13 +4,13 @@
 
 Create a Syslog UDP input:
 
-![click on graylog dashboad system settings](https://cln.sh/6FmmxY)
+![click on graylog dashboad system settings](images/graylog-system-settings.png)
 
-![click on inputs](https://cln.sh/QMlL4K)
+![click on inputs](images/graylog-system-settings-details.png)
 
-![search for syslog udp and launch input](https://cln.sh/3oFhWX)
+![search for syslog udp and launch input](images/graylog-udp-input.png)
 
-![fill out the details for the syslog udp input](https://cln.sh/6T20DH)
+![fill out the details for the syslog udp input](images/graylog-udp-input-settings.png)
 
 ## Configure Sensu
 
